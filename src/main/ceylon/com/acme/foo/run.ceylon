@@ -1,1 +1,4 @@
-shared void run() => print("Hello World");
+shared void run(){
+  print("Hello World");
+  print(JavaClass().message);
+}
